@@ -1,3 +1,4 @@
+[![skills.sh](https://skills.sh/b/rumstead/golang-pprof-skill)](https://skills.sh/rumstead/golang-pprof-skill)
 # golang-pprof-skill
 
 A set of composable AI skills for collecting and analyzing Go pprof profiles.
